@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\bin\Debug\net5.0\SistemaDeProdutos.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\bin\Debug\net5.0\SistemaDeProdutos.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\bin\Debug\net5.0\SistemaDeProdutos.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\bin\Debug\net5.0\SistemaDeProdutos.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\bin\Debug\net5.0\SistemaDeProdutos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\bin\Debug\net5.0\ref\SistemaDeProdutos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\bin\Debug\net5.0\SistemaDeProdutos.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\obj\Debug\net5.0\SistemaDeProdutos.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\obj\Debug\net5.0\SistemaDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\obj\Debug\net5.0\SistemaDeProdutos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\obj\Debug\net5.0\SistemaDeProdutos.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\obj\Debug\net5.0\SistemaDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\obj\Debug\net5.0\SistemaDeProdutos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\obj\Debug\net5.0\ref\SistemaDeProdutos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\obj\Debug\net5.0\SistemaDeProdutos.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\SistemaDeProdutos\obj\Debug\net5.0\SistemaDeProdutos.genruntimeconfig.cache
