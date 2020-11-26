@@ -6,9 +6,9 @@ namespace SistemaDeProdutos
     {
         static void Main(string[] args)
         {   
-                Console.Write("Sistema de Passagens \n\n");
-                string senha;
-                string usuarios = "Passageiros cadastrados:\n";
+            Console.Write("Sistema de Passagens \n\n");
+            string senha;
+            string usuarios = "Passageiros cadastrados:\n";
 
             do{
                 Console.WriteLine("digite sua senha");
@@ -61,7 +61,6 @@ namespace SistemaDeProdutos
                     
                 } while (denovo != "N");
             }
-
         }
     }
 }
