@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace SistemaDeProdutos
+namespace PassagemAerea
 {
     class Program
     {
         static void Main(string[] args)
-        {   
+        {
+               
             Console.Write("Sistema de Passagens \n\n");
             string senha;
             string usuarios = "Passageiros cadastrados:\n";
@@ -61,6 +62,7 @@ namespace SistemaDeProdutos
                     
                 } while (denovo != "N");
             }
+
         }
     }
 }

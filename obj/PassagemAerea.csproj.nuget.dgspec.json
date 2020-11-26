@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Desenvolvimento web senai\\Sprint 3 - Backend 1 - Logica\\SistemaDeProdutos\\SistemaDeProdutos.csproj": {}
+    "C:\\Users\\User\\Documents\\Desenvolvimento web senai\\Sprint 3 - Backend 1 - Logica\\PassagemAerea\\PassagemAerea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Desenvolvimento web senai\\Sprint 3 - Backend 1 - Logica\\SistemaDeProdutos\\SistemaDeProdutos.csproj": {
+    "C:\\Users\\User\\Documents\\Desenvolvimento web senai\\Sprint 3 - Backend 1 - Logica\\PassagemAerea\\PassagemAerea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Desenvolvimento web senai\\Sprint 3 - Backend 1 - Logica\\SistemaDeProdutos\\SistemaDeProdutos.csproj",
-        "projectName": "SistemaDeProdutos",
-        "projectPath": "C:\\Users\\User\\Documents\\Desenvolvimento web senai\\Sprint 3 - Backend 1 - Logica\\SistemaDeProdutos\\SistemaDeProdutos.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Desenvolvimento web senai\\Sprint 3 - Backend 1 - Logica\\PassagemAerea\\PassagemAerea.csproj",
+        "projectName": "PassagemAerea",
+        "projectPath": "C:\\Users\\User\\Documents\\Desenvolvimento web senai\\Sprint 3 - Backend 1 - Logica\\PassagemAerea\\PassagemAerea.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Desenvolvimento web senai\\Sprint 3 - Backend 1 - Logica\\SistemaDeProdutos\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Desenvolvimento web senai\\Sprint 3 - Backend 1 - Logica\\PassagemAerea\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
